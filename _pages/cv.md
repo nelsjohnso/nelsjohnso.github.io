@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+- **Ph.D. Statistics**, Virginia Tech, 2012  
+- **M.S. Statistics**, Virginia Tech, 2008  
+- **B.S. Mathematics**, University of North Carolina at Greensboro, 2007  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Core Competencies
+- **Statistics and Data Science:** A/B testing, Bayesian inference, design of experiments, multivariate analysis, regression methods, spatial statistics, study design  
+- **Machine Learning:** decision trees, gradient boosted models, random forests, unsupervised learning  
+- **Areas of Application:** ecology, forestry, land management, wildfire, wildlife  
+- **Consulting & Advising:** cross-disciplinary collaboration, project design, stakeholder communication, technical training  
+- **Software:** Markdown, R, Stan, SAS, LaTeX  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Professional Experience
+
+### **USDA Forest Service — Mathematical Statistician**  
+*2016–Present*
+- **Ecosystem Restoration:** Designed Bayesian and graphical models to support recovery of ʻōhiʻa forests threatened by fungal pathogens.
+- **Resource Optimization:** Developed stochastic frontier and Gaussian process models to maximize timber yield and predict tree growth in complex forests.
+- **Wildfire Risk Reduction:** Built decision tree and nonlinear models to predict wildfire survival outcomes, influencing policy and insurer guidance for at-risk communities.
+- **Capacity Building:** Trained 100+ scientists in Bayesian methods, statistical modeling, and machine learning through workshops and mentoring.
+
+### **NIMBioS — Postdoctoral Fellow in Statistical Ecology**  
+*2015–2016*
+- Developed nonparametric Bayesian algorithms to analyze functional equivalence in ecological systems.
+- Designed novel clustering models for multi-species datasets.
+
+### **Colorado State University — Postdoctoral Fellow in Statistical Ecology**  
+*2013–2015*
+- Built Bayesian correction models for high-throughput sequencing data.
+- Produced statistical maps of methane-consuming soil bacteria across the Great Plains.
+
+### **Virginia Tech — Lead Collaborator at LISA**  
+*2008–2013*
+- Consulted on 140+ projects spanning engineering, biological, physical, and social sciences.
+- Designed studies and implemented GLMMs, multivariate methods, and Bayesian approaches.
+- Delivered short courses on statistical methods for researchers and practitioners.
+
+---
+
+## Publications
+*Full publication list available via Google Scholar and ORCID.*
+
