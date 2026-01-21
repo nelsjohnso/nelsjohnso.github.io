@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Nels G. Johnson",
+    "email": "nelsjohnso@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://nelsjohnso.github.io",
+    "summary": "Mathematical Statistician. Bayesian. Scientist.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "California",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,46 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=pNOzKzkAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-8500-0194"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "nelsjohnso",
+        "url": "https://github.com/nelsjohnso"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Virginia Tech",
+      "area": "Ph.D in Statistics",
       "studyType": "",
       "startDate": "",
       "endDate": "2012",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Virginia Tech",
+      "area": "M.S. in Statistics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2008",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "UNCG",
+      "area": "B.S. in Mathematics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2007",
       "gpa": null,
       "courses": []
     }
