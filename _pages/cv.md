@@ -33,7 +33,7 @@ redirect_from:
 *2016–Present*
 - **Ecosystem Restoration:** Designed Bayesian and graphical models to support recovery of ʻōhiʻa forests threatened by fungal pathogens.
 - **Resource Optimization:** Developed stochastic frontier and Gaussian process models to maximize timber yield and predict tree growth in complex forests.
-- **Wildfire Risk Reduction:** Built decision tree and nonlinear models to predict wildfire survival outcomes, influencing policy and insurer guidance for at-risk communities.
+- **Wildfire Risk Reduction:** Built decision tree and nonlinear models to predict wildfire survival outcomes, influencing policy and insurer guidance.
 - **Capacity Building:** Trained 100+ scientists in Bayesian methods, statistical modeling, and machine learning through workshops and mentoring.
 
 ### **NIMBioS — Postdoctoral Fellow in Statistical Ecology**  
