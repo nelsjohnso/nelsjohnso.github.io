@@ -7,7 +7,7 @@ excerpt:
 date: 2025
 venue: 'Forest Science'
 slidesurl: 
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'](https://www.fs.usda.gov/psw/publications/weise/psw_2025_weise002.pdf'
+paperurl: 'https://www.fs.usda.gov/psw/publications/weise/psw_2025_weise002.pdf'
 bibtexurl: 
 citation: 
 ---
