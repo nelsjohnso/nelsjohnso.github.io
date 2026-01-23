@@ -23,10 +23,10 @@ repository               : "nelsjohnso/nelsjohnso.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "nels.png"
   name             : "Nels G. Johnson"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematical Statistician. Bayesian. Scientist."
+  bio              : "Statistician. Bayesian. Scientist."
   location         : "California"
   employer         : "Forestry R&D"
   uri              : # URL
