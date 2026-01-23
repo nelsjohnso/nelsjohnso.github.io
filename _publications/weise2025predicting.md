@@ -1,18 +1,4 @@
 ---
-
-
-@article{weise2025predicting,
-	title = {Predicting Soil Temperatures Associated with Reintroduction of Prescribed Burning in Western Coniferous Forests},
-	journal = {Forest Science},
-	pages = {1-27},
-	year = {2025},
-	doi = {10.1007/s44391-025-00037-5},
-	author = {Weise, D.R. and Sackett, S.S. and Haase, S.M. and Johnson, N.G.  and Burke, G.M.},
-	keywords={Published}
-}
-
-
-
 title: "Predicting Soil Temperatures Associated with Reintroduction of Prescribed Burning in Western Coniferous Forests"
 collection: publications
 category: manuscripts
