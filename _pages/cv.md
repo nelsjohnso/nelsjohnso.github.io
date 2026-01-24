@@ -56,5 +56,5 @@ redirect_from:
 
 ## Publications
 
-{% bibliography --file files/nelspubs.bib %}
+{% bibliography --file nelspubs.bib %}
 
