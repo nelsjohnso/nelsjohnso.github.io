@@ -55,5 +55,6 @@ redirect_from:
 ---
 
 ## Publications
-*Full publication list available via Google Scholar and ORCID.*
+
+{% bibliography --file files/nelspubs.bib %}
 
