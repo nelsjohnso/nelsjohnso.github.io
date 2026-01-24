@@ -1,5 +1,5 @@
 ---
 title: "Reducing wildfire impacts on communities"
-excerpt: "<br/><img src='/images/campfire.png'>"
+excerpt: "<br/><img src='/images/campfire.jpg'>"
 collection: portfolio
 ---
