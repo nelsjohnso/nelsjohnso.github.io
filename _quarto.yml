@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: .
 
 website:
   title: "Statistics and Forestry"
@@ -24,3 +24,4 @@ format:
     toc: true
 
 editor: visual
+
