@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "wildfire.html",
+    "href": "wildfire.html",
+    "title": "Wildfire Risk Reduction",
+    "section": "",
+    "text": "adsfasdf"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Ecosystem Restoration\n\n\nForest Resource Optimization\n\n\nWildfire Risk Reduction"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nels G. Johnson, PhD",
+    "section": "",
+    "text": "An introduction\nI am an R&D mathematical statistician working on scientific problems related to all things forest management. This work requires broad statistical expertise to meet the needs of many projects and partners. From an applied statistics perspective, this mostly means bread-and-butter statistical and machine learning techniques like designed experiments and surveys, generalized linear mixed model, decision trees, and random forests.\nThat said, forest management is no less advanced as a scientific field than encountered in other disciplines. I consider the defining characteristics of forest management research to be that measurements are typically expensive to acquire (time, labor, resources) and that its data are typically multivariate and longitudinal in space/time. This means a lot of the most exciting statistical work is on topics related to stochastic processes and statistical physics. Topics like ensuring the uniqueness of the posterior distribution in Bayesian inference, inference on likelihoods with unknown partition function, and fast statistical computing algorithms.\nBefore working in forest management R&D, I received my PhD in statistics from Virginia Tech and had postdoctoral fellowships in statistical ecology at Colorado State University and NIMBioS (now NIMbioS). While a graduate student my assistantship was funded by working as a lead statistical collaborator at LISA (now SAIG). I also received an NSF Math-Bio Undergraduate Fellowship as an undergraduate mathematics student at UNCG.\nFor more information, see my CV and my research portfolio."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "PhD Statistics, Virginia Tech, 2012\nMS Statistics, Virginia Tech, 2008\nBS Mathematics, University of North Carolina at Greensboro, 2007"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "PhD Statistics, Virginia Tech, 2012\nMS Statistics, Virginia Tech, 2008\nBS Mathematics, University of North Carolina at Greensboro, 2007"
+  },
+  {
+    "objectID": "cv.html#core-competencies",
+    "href": "cv.html#core-competencies",
+    "title": "CV",
+    "section": "Core Competencies",
+    "text": "Core Competencies\n\nStatistics and Data Science: A/B testing, Bayesian inference, design of experiments, multivariate analysis, regression methods, spatial statistics, study design\nMachine Learning: decision trees, gradient boosted models, random forests, unsupervised learning\nAreas of Application: ecology, forestry, land management, wildfire, wildlife\nConsulting & Advising: cross-disciplinary collaboration, project design, stakeholder communication, technical training\nSoftware: R, Stan, Markdown, Quarto, SAS, LaTeX"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "CV",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nUSDA Forest Service — Mathematical Statistician\n2016–Present\n\nEcosystem Restoration: Designed Bayesian and graphical models to support recovery of ʻōhiʻa forests threatened by fungal pathogens.\nForest Resource Optimization: Developed stochastic frontier and Gaussian process models to maximize timber yield and predict tree growth in complex forests.\nWildfire Risk Reduction: Built decision tree and nonlinear models to predict wildfire survival outcomes, influencing policy and insurer guidance.\nCapacity Building: Trained 100+ scientists in Bayesian methods, statistical modeling, and machine learning through workshops and mentoring.\n\n\n\nNIMBioS — Postdoctoral Fellow in Statistical Ecology\n2015–2016\n\nDeveloped nonparametric Bayesian algorithms to analyze functional equivalence in ecological systems.\nDesigned novel clustering models for multi-species datasets.\n\n\n\nColorado State University — Postdoctoral Fellow in Statistical Ecology\n2013–2015\n\nBuilt Bayesian correction models for high-throughput sequencing data.\nProduced statistical maps of methane-consuming soil bacteria across the Great Plains.\n\n\n\nVirginia Tech — Lead Collaborator at LISA\n2008–2013\n\nCollaborated on 140+ projects spanning engineering, biological, physical, and social sciences.\nDesigned studies and implemented GLMMs, multivariate methods, and Bayesian approaches.\nDelivered short courses on statistical methods for researchers and practitioners."
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\nAlster, Charlotte J, Steven D Allison, Nels G Johnson, Sydney I Glassman, and Kathleen K Treseder. 2021. “Phenotypic Plasticity of Fungal Traits in Response to Moisture and Temperature.” ISME Communications 1 (1): 43.\n\n\nAlster, Charlotte J, Peter Baas, Matthew D Wallenstein, Nels G Johnson, and Joseph C Von Fischer. 2016. “Temperature Sensitivity as a Microbial Trait Using Parameters from Macromolecular Rate Theory.” Frontiers in Microbiology 7: 1821.\n\n\nAlster, Charlotte J, Akihiro Koyama, Nels G Johnson, Matthew D Wallenstein, and Joseph C von Fischer. 2016. “Temperature Sensitivity of Soil Microbial Communities: An Application of Macromolecular Rate Theory to Microbial Respiration.” Journal of Geophysical Research: Biogeosciences 121 (6): 1420–33.\n\n\nBourgeois, Carine F, Richard A MacKenzie, Sahadev Sharma, Rupesh K Bhomia, Nels G Johnson, Andre S Rovai, Thomas A Worthington, et al. 2024. “Four Decades of Data Indicate That Planted Mangroves Stored up to 75% of the Carbon Stocks Found in Intact Mature Stands.” Science Advances 10 (27): eadk5430. https://doi.org/10.1126/sciadv.adk5430.\n\n\nChhetri, Maya, Nels Johnson, Olav Rueppell, and J Rychtář. 2009. “Revisiting the Variance-Based Selection Model of Diploid Drone Production for Multiple Mating in Honey Bees.” Journal of Interdisciplinary Mathematics 12 (2): 141–60.\n\n\nEscobedo, Francisco J., Kamini Yadav, Onofrio Cappelluti, and Nels Johnson. 2025. “Exploring Urban Vegetation Type and Defensible Space’s Role in Building Loss During Wildfire-Driven Events in California.” Landscape and Urban Planning 262: 105421. https://doi.org/10.1016/j.landurbplan.2025.105421.\n\n\nGu, Cuihua, Luke R Tembrock, Nels G Johnson, Mark P Simmons, and Zhiqiang Wu. 2016. “The Complete Plastid Genome of Lagerstroemia Fauriei and Loss of Rpl2 Intron from Lagerstroemia (Lythraceae).” PLoS One 11 (3): e0150752.\n\n\nHayworth, Miranda K., Nels G. Johnson, Matthew E. Wilhelm, Robert P. Gove, Jackie D. Metheny, and Olav Rueppell. 2009. “Added Weights Lead to Reduced Flight Behavior and Mating Success in Polyandrous Honey Bee Queens (Apis Mellifera).” Ethology 115 (7): 698–706.\n\n\nHenley, William F, Nels G Johnson, Serena Ciparis, Shane D Hanlon, and Douglas G Heffinger. 2015. “Effects of Coal Particles in Aquatic Sediments on Organ Tissues of Rainbow Mussels Villosa Iris (Unionidae).” Journal of Shellfish Research 34 (3): 1019–27.\n\n\nHwang, Bernice C, Christian P Giardina, Stephen Adu-Bredu, M Noelia Barrios-Garcia, Julio C Calvo-Alvarado, Greta C Dargie, Haoyu Diao, et al. 2024. “The Impact of Insect Herbivory on Biogeochemical Cycling in Broadleaved Forests Varies with Temperature.” Nature Communications 15 (1): 6011. https://doi.org/10.1038/s41467-024-50245-9.\n\n\nHyun, Dylan, Marc A Hughes, Nels Johnson, R Flint Hughes, and Peter M Vitousek. 2025. “In Vitro Assays Suggest Rapid ‘Ōhi’a Death Fungi Can Colonize Metrosideros Polymorpha Fine Roots.” PhytoFrontiers, no. ja. https://doi.org/10.1094/PHYTOFR-01-25-0008-SC.\n\n\nJohnson, Nels G, and Inyoung Kim. 2019. “Semiparametric Approaches for Matched Case–Control Studies with Error-in-Covariates.” Computational Statistics 34: 1675–92.\n\n\nJohnson, Nels G, Matthew R Williams, and Erin C Riordan. 2021. “Generalized Nonlinear Models Can Solve the Prediction Problem for Data from Species-Stratified Use-Availability Designs.” Diversity and Distributions 27 (11): 2077–92. https://doi.org/10.1111/ddi.13384.\n\n\nJohnson, Nels, and Inyoung Kim. 2017. “Generalized Linear Models with Covariate Measurement Error and Unknown Link Function.” Journal of Applied Statistics 44 (5): 833–52.\n\n\nKnapp, Eric E, Yana S Valachovic, Stephen L Quarles, and Nels G Johnson. 2021. “Housing Arrangement and Vegetation Factors Associated with Single-Family Home Survival in the 2018 Camp Fire, California.” Fire Ecology 17: 1–19. https://doi.org/10.1186/s42408-021-00117-0.\n\n\nKoyama, Akihiro, Nels G Johnson, Paul Brewer, Colleen T Webb, and Joseph C von Fischer. 2024. “Biological and Physical Controls of Methane Uptake in Grassland Soils Across the US Great Plains.” Ecosphere 15 (9): e4955. https://doi.org/10.1002/ecs2.4955.\n\n\nMcAvoy, Thomas J, Ryan Mays, Nels G Johnson, and Scott M Salom. 2017. “The Effects of Shade, Fertilizer, and Pruning on Eastern Hemlock Trees and Hemlock Woolly Adelgid.” Forests 8 (5): 156.\n\n\nMcAvoy, Thomas J., Amy L. Snyder, Nels Johnson, Scott M. Salom, and Loke T. Kok. 2012. “Road Survey of the Invasive Tree-of-Heaven (Ailanthus Altissima) in Virginia.” Invasive Plant Science and Management 5 (4): 506–12.\n\n\nMcAvoy, TJ, LT Kok, and N Johnson. 2016. “A Multiyear Year Study of Three Plant Communities with Purple Loosestrife and Biological Control Agents in Virginia.” Biological Control 94: 62–73.\n\n\nMcAvoy, TJ, SM Salom, B Yu, HL Ji, YZ Du, N Johnson, R Reardon, and LT Kok. 2014. “Occurrence and Development of Eucryptorrhynchus Brandti and e. Chinensis (Coleoptera: Curculionidae) on Ailanthus Altissima Trees Subjected to Different Levels of Mechanical Damage.” Biocontrol Science and Technology 24 (1): 65–79.\n\n\nMcIver, W, J Baldwin, MM Lance, SF Pearson, C Strong, D Lynch, MG Raphael, R Young, and N Johnson. 2019. “Marbled Murrelet Effectiveness Monitoring.” Northwest Forest Plan: At-Sea Monitoring-2019 Summary Report, 23.\n\n\nMclver, William R, Scott F Pearson, Craig Strong, Monique M Lance, Jim Baldwin, Deanna Lynch, Martin G Raphael, Richard D Young, and Nels Johnson. 2021. “Status and Trend of Marbled Murrelet Populations in the Northwest Forest Plan Area, 2000 to 2018.” USDA Forest Service.\n\n\nMcPherson, E Gregory, Qingfu Xiao, Natalie S Van Doorn, Nels Johnson, Shannon Albers, and Paula J Peper. 2018. “Shade Factors for 149 Taxa of in-Leaf Urban Trees in the USA.” Urban Forestry & Urban Greening 31: 204–11.\n\n\nMulholland, Grace E., Brenna E. Traver, Nels G. Johnson, and Richard D. Fell. 2012. “Individual Variability of Nosema Ceranae Infections in Apis Mellifera Colonies.” Insects 3 (4): 1143–55.\n\n\nParker, Peter A., G. Geoffrey Vining, Sara R. Wilson, John L. Szarka III, and Nels G. Johnson. 2010. “The Prediction Properties of Classical and Inverse Regression for the Simple Linear Calibration Problem.” Journal of Quality Technology 42 (4): 332–47.\n\n\nPeña-Domene, Marinés de la, Gerardo Rodrı́guez Tapia, Natalia Mesa-Sierra, Anaitzi Rivero-Villar, Christian P Giardina, Nels G Johnson, and Julio Campo. 2022. “Climatic and Edaphic-Based Predictors of Normalized Difference Vegetation Index in Tropical Dry Landscapes: A Pantropical Analysis.” Global Ecology and Biogeography 31 (9): 1850–63. https://doi.org/10.1111/geb.13565.\n\n\nPepin, Kim M., Clint B. Leach, Cecilia Marques-Toledo, Karla H Laass, Kelly S. Paixao, Angela D. Luis, David T. S. Hayman, et al. 2015. “Utility of Mosquito Surveillance Data for Spatial Prioritization of Vector Control Against Dengue Viruses in Three Brazilian Cities.” Parasites & Vectors 8: 1–15.\n\n\nRallos, Lynn Esther E, Nels G Johnson, David G Schmale III, Aaron J Prussin, and Anton B Baudoin. 2014. “Fitness of Erysiphe Necator with G143A-Based Resistance to Quinone Outside Inhibitors.” Plant Disease 98 (11): 1494–1502.\n\n\nRiordan, Erin C, Arlee M Montalvo, Jan L Beyers, Nels G Johnson, and Matthew R Williams. 2021. “Southern California Shrub and Subshrub Use-Availability Data.”\n\n\nRueppell, Olav, Nels Johnson, and Jan Rychtář. 2008. “Variance-Based Selection May Explain General Mating Patterns in Social Insects.” Biology Letters 4 (3): 270–73.\n\n\nSavitsky, Terrance D, Matthew R Williams, Julie Gershunskaya, Vladislav Beresovsky, and Nels G Johnson. 2022. “Methods for Combining Probability and Nonprobability Samples Under Unknown Overlaps.” 2022. https://arxiv.org/abs/2208.14541.\n\n\nWeise, D. R., S. S. Sackett, S. M. Haase, N. G. Johnson, and G. M. Burke. 2025. “Predicting Soil Temperatures Associated with Reintroduction of Prescribed Burning in Western Coniferous Forests.” Forest Science, 1–27. https://doi.org/10.1007/s44391-025-00037-5.\n\n\nWeise, David R, Stephen S Sackett, Sally M Haase, and Nels Johnson. 2019. “Effects of Fire Rotation Interval and Overstory Type on Ambient Soil Temperatures in Ponderosa Pine Forests in Arizona.” Canadian Journal of Forest Research 49 (10): 1320–28. https://doi.org/10.1139/cjfr-2018-0400.\n\n\nWeller, Theodore J, Jeff Clerc, Matthew J Lau, and Nels G Johnson. 2023. “Rates of Seasonal Fuel Loading Do Not Differ by Sex or Overwintering Strategy in Three Species of Bats.” Journal of Mammalogy 104 (6): 1246–56. https://doi.org/10.1093/jmammal/gyad088.\n\n\nYadav, Kamini, Francisco J Escobedo, Alyssa S Thomas, and Nels G Johnson. 2023. “Increasing Wildfires and Changing Sociodemographics in Communities Across California, USA.” International Journal of Disaster Risk Reduction 98: 104065. https://doi.org/10.1016/j.ijdrr.2023.104065.\n\n\nZhang, Jianwei, Kaelyn A Finley, Nels G Johnson, and Martin W Ritchie. 2019. “Lowering Stand Density Enhances Resiliency of Ponderosa Pine Forests to Disturbances and Climate Change.” Forest Science 65 (4): 496–507. https://doi.org/10.1093/forsci/fxz006."
+  },
+  {
+    "objectID": "nelsjohnso.github.io.html",
+    "href": "nelsjohnso.github.io.html",
+    "title": "nelsjohnso.github.io",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "nelsjohnso.github.io.html#quarto",
+    "href": "nelsjohnso.github.io.html#quarto",
+    "title": "nelsjohnso.github.io",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  }
+]
