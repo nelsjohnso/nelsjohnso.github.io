@@ -36,7 +36,7 @@ I am an R&D mathematical statistician working on scientific problems related to 
 
 Most projects involves bread-and-butter statistical and machine learning techniques like [generalized linear mixed models](https://en.wikipedia.org/wiki/Generalized_linear_mixed_model), [decision trees](https://en.wikipedia.org/wiki/Decision_tree_learning), and [random forests](https://en.wikipedia.org/wiki/Random_forest). These are powerful tools that are well understood and perform well when data is small or of modest size.
 
-For the most complex projects I use Bayesian variants of models found in [statistical physics](https://en.wikipedia.org/wiki/Statistical_mechanics) (e.g., the [Ising model](https://en.wikipedia.org/wiki/Ising_model)). Their interpretation can be done in terms of simple physical systems like circuits and magnets.
+For the most complex projects I use [Bayesian](https://en.wikipedia.org/wiki/Bayesian_statistics) variants of models found in [statistical physics](https://en.wikipedia.org/wiki/Statistical_mechanics) (e.g., the [Ising model](https://en.wikipedia.org/wiki/Ising_model)). Their interpretation can be done in terms of simple physical systems like circuits and magnets.
 
 For more information, see my [portfolio](portfolio.qmd).
 
