@@ -8,4 +8,4 @@ title: "Portfolio"
 
 ### [Wildfire Risk Reduction](wildfire.qmd)
 
-![Camp Fire (2018), Paradise, California, USA](campfire500x300.jpg)
+![Camp Fire (2018), Paradise, California, USA](campfire500x300.jpg){fig-align="left"}

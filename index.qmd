@@ -1,6 +1,6 @@
 ---
 title: "Nels G. Johnson, PhD"
-subtitle: Statistician. Scientist. Bayesian.
+subtitle: "Statistician. Scientist. Bayesian."
 description-meta: "Statistics and Forestry"
 image: "nels.png"
 page-navigation: true
