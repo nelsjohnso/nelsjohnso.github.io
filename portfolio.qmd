@@ -7,3 +7,5 @@ title: "Portfolio"
 ### [Forest Resource Management](resource.qmd)
 
 ### [Wildfire Risk Reduction](wildfire.qmd)
+
+![Camp Fire (2018), Paradise, California, USA](campfire500x300.jpg)

@@ -30,10 +30,18 @@ about:
 
 ### An introduction
 
-I am an R&D mathematical statistician working on scientific problems related to all things forest management. This work requires broad statistical expertise to meet the needs of many projects and partners. From an applied statistics perspective, this mostly means bread-and-butter statistical and machine learning techniques like designed experiments and surveys, generalized linear mixed model, decision trees, and random forests.
+I am an R&D mathematical statistician working on scientific problems related to all things forest management. The data is often multivariate and longitudinal in space/time, and expensive to collect (i.e., time, labor, resources). It comes from many kinds of studies---designed experiments, observational surveys, and surveys of convenience and opportunity. As such, my work requires broad statistical expertise to meet the needs of many projects and partners.
 
-That said, forest management is no less advanced as a scientific field than encountered in other disciplines. I consider the defining characteristics of forest management research to be that measurements are typically expensive to acquire (time, labor, resources) and that its data are typically multivariate and longitudinal in space/time. This means a lot of the most exciting statistical work is on topics related to stochastic processes and statistical physics. Topics like ensuring the uniqueness of the posterior distribution in Bayesian inference, inference on likelihoods with unknown partition function, and fast statistical computing algorithms.
+### The work I do
 
-Before working in forest management R&D, I received my PhD in statistics from [Virginia Tech](https://www.stat.vt.edu) and had postdoctoral fellowships in statistical ecology at [Colorado State University](https://www.biology.colostate.edu/) and [NIMBioS](https://legacy.nimbios.org/) (now [NIMbioS](https://www.nimbios.org/)). While a graduate student my assistantship was funded by working as a lead statistical collaborator at [LISA (now SAIG)](https://saig.stat.vt.edu/). I also received an [NSF Math-Bio Undergraduate Fellowship](https://math-sites.uncg.edu/math-bio/nsf-fellowship/) as an undergraduate mathematics student at [UNCG](https://mathstats.uncg.edu/).
+Most projects involves bread-and-butter statistical and machine learning techniques like [generalized linear mixed models](https://en.wikipedia.org/wiki/Generalized_linear_mixed_model), [decision trees](https://en.wikipedia.org/wiki/Decision_tree_learning), and [random forests](https://en.wikipedia.org/wiki/Random_forest). These are powerful tools that are well understood and perform well when data is small or of modest size.
 
-For more information, see my [CV](cv.qmd) and my [research portfolio](portfolio.qmd).
+For the most complex projects I use Bayesian variants of models found in [statistical physics](https://en.wikipedia.org/wiki/Statistical_mechanics) (e.g., the [Ising model](https://en.wikipedia.org/wiki/Ising_model)). Their interpretation can be done in terms of simple physical systems like circuits and magnets.
+
+For more information, see my [portfolio](portfolio.qmd).
+
+### My training
+
+Before working in forest management R&D, I received my PhD in statistics from [Virginia Tech](https://www.stat.vt.edu) and had postdoctoral fellowships in statistical ecology at [Colorado State University](https://www.biology.colostate.edu/) and [NIMBioS](https://legacy.nimbios.org/) (now [NIMBioS](https://www.nimbios.org/)). As a graduate student, my assistantship was funded by working as a lead statistical collaborator at [LISA (now SAIG)](https://saig.stat.vt.edu/). I also received an [NSF Math-Bio Undergraduate Fellowship](https://math-sites.uncg.edu/math-bio/nsf-fellowship/) as an undergraduate mathematics student at [UNCG](https://mathstats.uncg.edu/).
+
+For more information, see my [CV](cv.qmd).
